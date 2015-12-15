@@ -1,0 +1,42 @@
+body{
+    background-image:url("http://il3.picdn.net/shutterstock/videos/8834104/thumb/1.jpg");
+    width:800px;
+} 
+
+h1{
+    color:white;
+}
+#title{
+    font-family:Georgia;
+    background-color:#993366;
+    padding:15px;
+}
+#slogan {
+    font-style: italic;
+    color:silver;
+}
+
+nav{
+    background-color:gray;
+    padding:15px;
+}
+
+a{
+    text-decoration:none;
+    color:pink;
+    font-size:20px;
+    padding-right:40px;
+}
+
+#contact{
+    background-color:#993366;
+    color:white;
+    padding:15px;
+    margin-top:10px;
+}
+#socialmedia img{
+    height:32px;
+}
+#lower{
+    height:70px;
+}
